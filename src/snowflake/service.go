@@ -7,7 +7,7 @@ import (
 "etcdclient"
 "fmt"
 etcd "github.com/coreos/etcd/client"
-log "github.com/MISingularity/snowflake/pkg/log"
+log "github.com/MISingularity/snowflake/src/pkg/log"
 "golang.org/x/net/context"
 "math/rand"
 "os"
