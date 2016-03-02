@@ -1,7 +1,7 @@
 package main
 
 import (
-	log "github.com/MISingularity/deepshare2/pkg/log"
+	log "github.com/MISingularity/snowflake/pkg/log"
 	_ "github.com/gonet2/libs/statsd-pprof"
 	"google.golang.org/grpc"
 	"net"
